@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-react-typescript",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
